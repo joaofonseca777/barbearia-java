@@ -61,5 +61,6 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 
 ⬜ Inserir Banco de dados
 ⬜ Corrigir tamanho das imagens
+⬜ adicionar uma nova tela 
 
 
